@@ -1,0 +1,26 @@
+C:\Users\chris\source\repos\DevOps Assignment 2 Web App\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\chris\source\repos\DevOps Assignment 2 Web App\bin\Debug\net6.0\appsettings.json
+C:\Users\chris\source\repos\DevOps Assignment 2 Web App\bin\Debug\net6.0\DevOps Assignment 2 Web App.staticwebassets.runtime.json
+C:\Users\chris\source\repos\DevOps Assignment 2 Web App\bin\Debug\net6.0\DevOps Assignment 2 Web App.exe
+C:\Users\chris\source\repos\DevOps Assignment 2 Web App\bin\Debug\net6.0\DevOps Assignment 2 Web App.deps.json
+C:\Users\chris\source\repos\DevOps Assignment 2 Web App\bin\Debug\net6.0\DevOps Assignment 2 Web App.runtimeconfig.json
+C:\Users\chris\source\repos\DevOps Assignment 2 Web App\bin\Debug\net6.0\DevOps Assignment 2 Web App.dll
+C:\Users\chris\source\repos\DevOps Assignment 2 Web App\bin\Debug\net6.0\DevOps Assignment 2 Web App.pdb
+C:\Users\chris\source\repos\DevOps Assignment 2 Web App\obj\Debug\net6.0\DevOps Assignment 2 Web App.csproj.AssemblyReference.cache
+C:\Users\chris\source\repos\DevOps Assignment 2 Web App\obj\Debug\net6.0\DevOps Assignment 2 Web App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chris\source\repos\DevOps Assignment 2 Web App\obj\Debug\net6.0\DevOps Assignment 2 Web App.AssemblyInfoInputs.cache
+C:\Users\chris\source\repos\DevOps Assignment 2 Web App\obj\Debug\net6.0\DevOps Assignment 2 Web App.AssemblyInfo.cs
+C:\Users\chris\source\repos\DevOps Assignment 2 Web App\obj\Debug\net6.0\DevOps Assignment 2 Web App.csproj.CoreCompileInputs.cache
+C:\Users\chris\source\repos\DevOps Assignment 2 Web App\obj\Debug\net6.0\DevOps Assignment 2 Web App.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\chris\source\repos\DevOps Assignment 2 Web App\obj\Debug\net6.0\DevOps Assignment 2 Web App.RazorAssemblyInfo.cache
+C:\Users\chris\source\repos\DevOps Assignment 2 Web App\obj\Debug\net6.0\DevOps Assignment 2 Web App.RazorAssemblyInfo.cs
+C:\Users\chris\source\repos\DevOps Assignment 2 Web App\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\chris\source\repos\DevOps Assignment 2 Web App\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\chris\source\repos\DevOps Assignment 2 Web App\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\chris\source\repos\DevOps Assignment 2 Web App\obj\Debug\net6.0\scopedcss\bundle\DevOps Assignment 2 Web App.styles.css
+C:\Users\chris\source\repos\DevOps Assignment 2 Web App\obj\Debug\net6.0\scopedcss\projectbundle\DevOps Assignment 2 Web App.bundle.scp.css
+C:\Users\chris\source\repos\DevOps Assignment 2 Web App\obj\Debug\net6.0\DevOps Assignment 2 Web App.dll
+C:\Users\chris\source\repos\DevOps Assignment 2 Web App\obj\Debug\net6.0\refint\DevOps Assignment 2 Web App.dll
+C:\Users\chris\source\repos\DevOps Assignment 2 Web App\obj\Debug\net6.0\DevOps Assignment 2 Web App.pdb
+C:\Users\chris\source\repos\DevOps Assignment 2 Web App\obj\Debug\net6.0\DevOps Assignment 2 Web App.genruntimeconfig.cache
+C:\Users\chris\source\repos\DevOps Assignment 2 Web App\obj\Debug\net6.0\ref\DevOps Assignment 2 Web App.dll
