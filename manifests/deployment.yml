@@ -1,0 +1,19 @@
+apiVersion : apps/v1
+kind: Deployment
+metadata:
+  name: weltecchristinedevopsassignmentwebapp 
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: weltecchristinedevopsassignmentwebapp
+  template:
+    metadata:
+      labels:
+        app: weltecchristinedevopsassignmentwebapp 
+    spec:
+      containers:
+        - name: weltecchristinedevopsassignmentwebapp 
+          image: devopsassignment2acr.azurecr.io/weltecchristinedevopsassignmentwebapp
+          ports:
+          - containerPort: 80
